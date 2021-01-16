@@ -7,7 +7,7 @@
 * Use `filter()` to return matching results
 
 ## Introduction
-
+ 
 We've all probably had the experience of filtering a selection of choices
 online. When shopping for clothing, we might have selected a single size so
 that we can consider only the search results we need. Or when ordering food
